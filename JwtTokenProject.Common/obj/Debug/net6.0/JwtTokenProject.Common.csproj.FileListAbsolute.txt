@@ -1,0 +1,15 @@
+C:\Users\yasin.kalender\Desktop\JwtTokenProject\JwtTokenProject.Common\bin\Debug\net6.0\JwtTokenProject.Common.deps.json
+C:\Users\yasin.kalender\Desktop\JwtTokenProject\JwtTokenProject.Common\bin\Debug\net6.0\JwtTokenProject.Common.dll
+C:\Users\yasin.kalender\Desktop\JwtTokenProject\JwtTokenProject.Common\bin\Debug\net6.0\JwtTokenProject.Common.pdb
+C:\Users\yasin.kalender\Desktop\JwtTokenProject\JwtTokenProject.Common\bin\Debug\net6.0\JwtTokenProject.Entities.dll
+C:\Users\yasin.kalender\Desktop\JwtTokenProject\JwtTokenProject.Common\bin\Debug\net6.0\JwtTokenProject.Entities.pdb
+C:\Users\yasin.kalender\Desktop\JwtTokenProject\JwtTokenProject.Common\obj\Debug\net6.0\JwtTokenProject.Common.csproj.AssemblyReference.cache
+C:\Users\yasin.kalender\Desktop\JwtTokenProject\JwtTokenProject.Common\obj\Debug\net6.0\JwtTokenProject.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yasin.kalender\Desktop\JwtTokenProject\JwtTokenProject.Common\obj\Debug\net6.0\JwtTokenProject.Common.AssemblyInfoInputs.cache
+C:\Users\yasin.kalender\Desktop\JwtTokenProject\JwtTokenProject.Common\obj\Debug\net6.0\JwtTokenProject.Common.AssemblyInfo.cs
+C:\Users\yasin.kalender\Desktop\JwtTokenProject\JwtTokenProject.Common\obj\Debug\net6.0\JwtTokenProject.Common.csproj.CoreCompileInputs.cache
+C:\Users\yasin.kalender\Desktop\JwtTokenProject\JwtTokenProject.Common\obj\Debug\net6.0\JwtTokenProject.Common.csproj.CopyComplete
+C:\Users\yasin.kalender\Desktop\JwtTokenProject\JwtTokenProject.Common\obj\Debug\net6.0\JwtTokenProject.Common.dll
+C:\Users\yasin.kalender\Desktop\JwtTokenProject\JwtTokenProject.Common\obj\Debug\net6.0\refint\JwtTokenProject.Common.dll
+C:\Users\yasin.kalender\Desktop\JwtTokenProject\JwtTokenProject.Common\obj\Debug\net6.0\JwtTokenProject.Common.pdb
+C:\Users\yasin.kalender\Desktop\JwtTokenProject\JwtTokenProject.Common\obj\Debug\net6.0\ref\JwtTokenProject.Common.dll

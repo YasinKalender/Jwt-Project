@@ -1,0 +1,17 @@
+C:\Users\yasin.kalender\Desktop\JwtTokenProject\JwtTokenProject.DAL\bin\Debug\net6.0\JwtTokenProject.DAL.deps.json
+C:\Users\yasin.kalender\Desktop\JwtTokenProject\JwtTokenProject.DAL\bin\Debug\net6.0\JwtTokenProject.DAL.runtimeconfig.json
+C:\Users\yasin.kalender\Desktop\JwtTokenProject\JwtTokenProject.DAL\bin\Debug\net6.0\JwtTokenProject.DAL.dll
+C:\Users\yasin.kalender\Desktop\JwtTokenProject\JwtTokenProject.DAL\bin\Debug\net6.0\JwtTokenProject.DAL.pdb
+C:\Users\yasin.kalender\Desktop\JwtTokenProject\JwtTokenProject.DAL\bin\Debug\net6.0\JwtTokenProject.Entities.dll
+C:\Users\yasin.kalender\Desktop\JwtTokenProject\JwtTokenProject.DAL\bin\Debug\net6.0\JwtTokenProject.Entities.pdb
+C:\Users\yasin.kalender\Desktop\JwtTokenProject\JwtTokenProject.DAL\obj\Debug\net6.0\JwtTokenProject.DAL.csproj.AssemblyReference.cache
+C:\Users\yasin.kalender\Desktop\JwtTokenProject\JwtTokenProject.DAL\obj\Debug\net6.0\JwtTokenProject.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yasin.kalender\Desktop\JwtTokenProject\JwtTokenProject.DAL\obj\Debug\net6.0\JwtTokenProject.DAL.AssemblyInfoInputs.cache
+C:\Users\yasin.kalender\Desktop\JwtTokenProject\JwtTokenProject.DAL\obj\Debug\net6.0\JwtTokenProject.DAL.AssemblyInfo.cs
+C:\Users\yasin.kalender\Desktop\JwtTokenProject\JwtTokenProject.DAL\obj\Debug\net6.0\JwtTokenProject.DAL.csproj.CoreCompileInputs.cache
+C:\Users\yasin.kalender\Desktop\JwtTokenProject\JwtTokenProject.DAL\obj\Debug\net6.0\JwtTokenProject.DAL.csproj.CopyComplete
+C:\Users\yasin.kalender\Desktop\JwtTokenProject\JwtTokenProject.DAL\obj\Debug\net6.0\JwtTokenProject.DAL.dll
+C:\Users\yasin.kalender\Desktop\JwtTokenProject\JwtTokenProject.DAL\obj\Debug\net6.0\refint\JwtTokenProject.DAL.dll
+C:\Users\yasin.kalender\Desktop\JwtTokenProject\JwtTokenProject.DAL\obj\Debug\net6.0\JwtTokenProject.DAL.pdb
+C:\Users\yasin.kalender\Desktop\JwtTokenProject\JwtTokenProject.DAL\obj\Debug\net6.0\JwtTokenProject.DAL.genruntimeconfig.cache
+C:\Users\yasin.kalender\Desktop\JwtTokenProject\JwtTokenProject.DAL\obj\Debug\net6.0\ref\JwtTokenProject.DAL.dll
